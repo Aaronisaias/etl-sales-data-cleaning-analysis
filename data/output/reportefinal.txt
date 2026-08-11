@@ -1,0 +1,13 @@
+
+    === Reporte Final ===
+    Fecha:<class 'datetime.datetime'>
+    Archivo Original:desafio_logistica_ecommerce.csv
+    Archivo Normalizado:datosnormalizados.csv
+    Cantidad de Registros:52
+    Cantidad de Filas Eliminadas:131
+    Cantidad de Columnas:9
+    Cantidad de Filas:52
+    Estado:Completado    
+    === Reporte Finalizado ===
+    
+Se encontraron errores:

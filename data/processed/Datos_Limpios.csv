@@ -1,0 +1,53 @@
+ID_Orden,ID_Cliente,Cliente,Producto,Costo_Envio,Dias_Retraso,Estado_Envio,Fecha_Despacho,Monto_Total
+3004,109,Esteban quito,Monitor 24 pulg,-5.0,0.0,Cancelado,2026-04-01,450.5
+3005,102,Gabriela sosa,"Monitor 24""",$1200.0,-3.0,Cancelado,Sin_fecha,120.0
+3007,104,Marcos silva,Laptop gamer,25.0,90.0,Entregado,01/04/2026,-50.0
+3008,101,Claudia gomez,"Monitor 24""",-5.0,5.0,Entregado,01/04/2026,450.5
+3010,109,Gabriela sosa,Monitor 24 pulg,25.0,0.0,Retrasado,2026-04-01,450.5
+3011,109,Marcos silva,Monitor 24 pulg,25.0,5.0,Entregado,Sin_fecha,25000.0
+3012,101,Gabriela sosa,Smartphone x,$ 40.0,4.0,Retrasado,2026-04-10,1500.0
+3014,103,Gabriela sosa,Laptop gamer,$1200.0,-3.0,Entregado,10-04-2026,1500.0
+3016,108,Marcos silva,Smartphone x,$15.50,4.0,Cancelado,Sin_fecha,1500.0
+3017,105,Marcos silva,Laptop gamer,10,1.0,Cancelado,10-04-2026,-50.0
+3019,103,Gabriela sosa,Monitor 24 pulg,$1200.0,2.0,Cancelado,10-04-2026,450.5
+3021,107,Marcos silva,Teclado mecanico,10,0.0,Entregado,10-04-2026,-50.0
+3024,104,Esteban quito,Smartphone x,-5.0,4.0,Entregado,2026-04-10,120.0
+3028,110,Marcos silva,Smartphone x,$1200.0,1.0,Retrasado,2026-04-10,450.5
+3029,105,Gabriela sosa,Teclado mecanico,10,1.0,Retrasado,01/04/2026,1500.0
+3030,105,Valeria rios,Laptop gamer,$15.50,2.0,Cancelado,2026-04-01,450.5
+3033,103,Marcos silva,Laptop gamer,-5.0,1.0,Retrasado,2026-04-10,25000.0
+3034,108,Andres parra,Smartphone x,25.0,2.0,Retrasado,Sin_fecha,25000.0
+3043,102,Valeria rios,Teclado mecanico,$1200.0,-3.0,Cancelado,Sin_fecha,1500.0
+3044,102,Valeria rios,Laptop gamer,10,4.0,Cancelado,2026-04-10,25000.0
+3049,110,Marcos silva,Smartphone x,$ 40.0,90.0,Retrasado,01/04/2026,25000.0
+3050,101,Gabriela sosa,Laptop gamer,-5.0,90.0,Retrasado,2026-04-01,120.0
+3051,102,Marcos silva,Monitor 24 pulg,$15.50,14.0,Retrasado,Sin_fecha,25000.0
+3052,105,Gabriela sosa,Monitor 24 pulg,10,1.0,Retrasado,10-04-2026,450.5
+3053,101,Marcos silva,Smartphone x,$ 40.0,2.0,Entregado,2026-04-01,120.0
+3054,107,Esteban quito,Monitor 24 pulg,10,0.0,Entregado,10-04-2026,1500.0
+3058,105,Claudia gomez,Laptop gamer,10,4.0,Cancelado,2026-04-10,1500.0
+3060,108,Esteban quito,Smartphone x,$15.50,0.0,Cancelado,10-04-2026,89.99
+3062,107,Claudia gomez,Smartphone x,10,2.0,Cancelado,2026-04-10,25000.0
+3063,105,Valeria rios,"Monitor 24""",$ 40.0,14.0,Cancelado,10-04-2026,-50.0
+3066,101,Valeria rios,Teclado mecanico,10,2.0,Cancelado,Sin_fecha,1500.0
+3069,107,Gabriela sosa,Laptop gamer,$1200.0,5.0,Entregado,10-04-2026,1500.0
+3070,109,Andres parra,"Monitor 24""",$ 40.0,0.0,Cancelado,10-04-2026,25000.0
+3073,105,Marcos silva,Smartphone x,-5.0,14.0,Entregado,01/04/2026,120.0
+3076,101,Andres parra,Monitor 24 pulg,25.0,1.0,Cancelado,2026-04-01,89.99
+3078,103,Marcos silva,"Monitor 24""",10,2.0,Retrasado,2026-04-01,450.5
+3079,106,Gabriela sosa,Smartphone x,25.0,-3.0,Cancelado,2026-04-10,450.5
+3080,108,Gabriela sosa,Smartphone x,10,2.0,Retrasado,2026-04-10,89.99
+3081,110,Marcos silva,Smartphone x,10,14.0,Entregado,2026-04-10,89.99
+3082,103,Esteban quito,Laptop gamer,$ 40.0,0.0,Cancelado,10-04-2026,-50.0
+3083,102,Valeria rios,Teclado mecanico,$1200.0,4.0,Retrasado,01/04/2026,25000.0
+3086,104,Andres parra,Monitor 24 pulg,10,14.0,Retrasado,Sin_fecha,450.5
+3087,103,Claudia gomez,Monitor 24 pulg,$1200.0,1.0,Cancelado,01/04/2026,-50.0
+3089,104,Marcos silva,Smartphone x,25.0,90.0,Cancelado,10-04-2026,450.5
+3091,102,Marcos silva,Teclado mecanico,10,90.0,Retrasado,10-04-2026,25000.0
+3093,106,Gabriela sosa,Monitor 24 pulg,10,90.0,Retrasado,01/04/2026,1500.0
+3097,103,Claudia gomez,Laptop gamer,$1200.0,2.0,Retrasado,Sin_fecha,1500.0
+3098,104,Gabriela sosa,Laptop gamer,25.0,4.0,Cancelado,2026-04-01,1500.0
+3105,108,Gabriela sosa,Smartphone x,25.0,4.0,Retrasado,Sin_fecha,-50.0
+3108,103,Gabriela sosa,Teclado mecanico,10,0.0,Cancelado,2026-04-10,89.99
+3114,105,Gabriela sosa,Smartphone x,25.0,4.0,Retrasado,2026-04-01,450.5
+3117,106,Marcos silva,Smartphone x,-5.0,4.0,Entregado,10-04-2026,120.0
